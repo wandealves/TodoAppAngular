@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "todoapp-aced8": {
+      "hosting": {
+        "Todo": [
+          "todoapp-aced8"
+        ]
+      }
+    }
+  }
+}
